@@ -1,5 +1,5 @@
 
-![title|medium](ss.png)
+![title|small](ss.png)
 
 # REACT-NATIVE-PERCENTAGE-RECTANGLE
 

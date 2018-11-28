@@ -1,5 +1,5 @@
 
-![title|small](ss.png)
+![Alt text](https://github.com/abhishekk09/react-native-percentage-rectangle/blob/master/ss.png?raw=true )
 
 This is the ScreenShot of how the component will look like.
 

@@ -1,13 +1,24 @@
 {
   "name": "react-native-percentage-reactangle",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "This is to show the percentage bar around the reactangle with which we can use image inside it or the percentage count inside it",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekk09/react-native-percentage-rectangle.git"
+  },
+  "keywords": [
+    "percentage",
+    "rectangle",
+    "progress",
+    "bar"
+  ],
   "author": "abhishek_kumar",
   "license": "ISC",
+  "homepage": "https://github.com/abhishekk09/react-native-percentage-rectangle#readme",
   "peerDependencies": {
     "react": "*",
     "react-native": "*"

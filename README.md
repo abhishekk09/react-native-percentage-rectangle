@@ -17,22 +17,22 @@ npm install React-Native-Percentage-Reactangle
 
 ## Usage
 
-```python
+```javascript
 import PercentageBar from 'react-native-percentage-reactangle';
- <!-- with the source of image imported from directory  -->
+ // with the source of image imported from directory 
        <PercentageBar 
         source={demoImg} 
         width={100}
         percent={45}
         borderWidth={5}
         />
-<!--without the image source it will show you the percent inside it -->
+ // without the image source it will show you the percent inside it
         <PercentageBar 
         width={150}
         percent={20}
         borderWidth={10}
         />
-<!--with the uri source of image -->
+ // with the uri source of image 
         <PercentageBar 
         source={{ uri: 'https://facebook.github.io/react-native/docs/assets/favicon.png' }}  
         width={30}

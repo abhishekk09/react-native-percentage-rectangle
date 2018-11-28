@@ -1,6 +1,8 @@
 
 ![title|small](ss.png)
 
+This is the ScreenShot of how the component will look like.
+
 # REACT-NATIVE-PERCENTAGE-RECTANGLE
 
 React-Native-Percentage-Reactangle is a component which let you define your percent and draw the rectangle with image inside it.And also you can use it as a progress bar.And you can show percent if you won't specify the image.

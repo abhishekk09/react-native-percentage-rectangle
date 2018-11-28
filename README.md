@@ -1,5 +1,5 @@
 
-![Scheme image size](ss.png){:height="50%" width="50%"}
+![title|medium](ss.png)
 
 # REACT-NATIVE-PERCENTAGE-RECTANGLE
 

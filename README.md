@@ -9,7 +9,7 @@ React-Native-Percentage-Reactangle is a component which let you define your perc
 
 ## Installation
 
-Use the package manager [npm](https://www.npmjs.com/package/react-native-percentage-reactangle) to install React-Native-Percentage-Reactangle.
+Use the package manager [npm](https://www.npmjs.com/package/react-native-percentage-rectangle) to install React-Native-Percentage-Rectangle.
 
 ```bash
 npm install React-Native-Percentage-Rectangle
@@ -18,7 +18,7 @@ npm install React-Native-Percentage-Rectangle
 ## Usage
 
 ```javascript
-import PercentageBar from 'react-native-percentage-reactangle';
+import PercentageBar from 'react-native-percentage-rectangle';
  // with the source of image imported from directory 
        <PercentageBar 
         source={demoImg} 
